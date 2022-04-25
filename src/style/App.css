@@ -381,58 +381,57 @@
   position: absolute;
   padding-top: 500px;
   left: 190px;
-  bottom: -1261px;
+  bottom: -1230px;
 }
 .paper_r {
   position: absolute;
-  bottom: -1280px;
+  bottom: -1250px;
   left: 170px;
 }
 .pen {
   position: absolute;
-  padding-top: 471px;
+  padding-top: 466px;
   margin-left: -42px;
 }
 
 .pen1 {
   position: absolute;
-  padding-top: 454px;
+  padding-top: 445px;
   left: 700px;
 }
 
 .eye {
   position: absolute;
-  bottom: -1262px;
+  bottom: -1230px;
   left: 1225px;
 }
 .eye1 {
   position: absolute;
-  bottom: -1281px;
+  bottom: -1245px;
   left: 1209px;
 }
 .paperp {
   position: absolute;
-  top: 2040px;
+  top: 2045px;
   left: 145px;
   color: #575445;
 }
 .penp {
   position: absolute;
-  top: 2040px;
+  top: 2042px;
   left: 679px;
   color: #575445;
 }
 .eyep {
   position: absolute;
-  top: 2040px;
-  left: 1200px;
+  top: 2050px;
+  left: 1190px;
   color: #575445;
 }
 .paperpp {
-  top: 2060px;
+  top: 2070px;
   position: absolute;
   font-family: Poppins;
-  color: #575445;
   font-size: 14px;
   font-family: Poppins;
   width: 287px;
@@ -443,7 +442,7 @@
   left: 65px;
 }
 .penpp {
-  top: 2060px;
+  top: 2069px;
 
   position: absolute;
   font-family: Poppins;
@@ -469,8 +468,8 @@
   line-height: 20px;
   font-weight: 400;
   left: 900px;
-  bottom: -1372px;
-  left: 1115px;
+  bottom: -1345px;
+  left: 1100px;
 }
 .body_container {
   margin-top: 900px;
@@ -591,7 +590,7 @@
 }
 .odamp {
   position: absolute;
-  bottom: -1927px;
+  bottom: -1905px;
   left: 600px;
   color: #575445;
   font-family: Poppins;
@@ -606,7 +605,7 @@
   position: absolute;
   color: #575445;
   left: 630px;
-  top: 2670px;
+  top: 2679px;
   font-family: Poppins;
   font-size: 16px;
   font-weight: 400;
@@ -871,7 +870,6 @@
   font-size: 28px;
   font-weight: 400;
   line-height: 34px;
-  letter-spacing: ;
 }
 .image5pp {
   position: absolute;
@@ -1074,9 +1072,241 @@
   border-radius: 6px;
   height: 44px;
   cursor: pointer;
-border: none;
+  border: none;
 }
 .na_btn:hover {
   color: #375c58;
   transform: 0.7;
+}
+.nap3 {
+  position: absolute;
+  color: #e6b939;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 400;
+  bottom: -4080px;
+  left: 136px;
+}
+.nav-nav {
+  position: absolute;
+  color: #575445;
+  bottom: -4122px;
+  left: 136px;
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 43px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.morbi {
+  position: absolute;
+  color: #575445;
+  bottom: -4185px;
+  left: 136px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.mountain {
+  position: absolute;
+  bottom: -4550px;
+  left: 136px;
+}
+.bike {
+  position: absolute;
+  bottom: -4550px;
+  left: 790px;
+}
+.climb3 {
+  position: absolute;
+  bottom: -4607px;
+  left: 136px;
+  color: #575445;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.bikep {
+  position: absolute;
+  color: #575445;
+  bottom: -4580px;
+  left: 790px;
+  font-family: Poppins;
+  font-size: 19px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.alex {
+  position: absolute;
+  bottom: -4670px;
+  left: 136px;
+}
+.alexp {
+  position: absolute;
+  color: #575445;
+  bottom: -4648px;
+  left: 195px;
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.alexqa {
+  position: absolute;
+  color: #e6b939;
+  bottom: -4665px;
+  left: 195px;
+  font-family: Poppins;
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.alexDate {
+  position: absolute;
+  bottom: -4665px;
+  left: 580px;
+  color: #6f7278;
+  font-family: Poppins;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.woddie {
+  position: absolute;
+  bottom: -4665px;
+  left: 800px;
+}
+.woddieP {
+  position: absolute;
+  color: #575445;
+  bottom: -4645px;
+  left: 858px;
+}
+.woddiePp {
+  position: absolute;
+  bottom: -4663px;
+  left: 858px;
+  color: #e6b939;
+  font-family: Poppins;
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.woddieDate {
+  position: absolute;
+  color: #6f7278;
+  bottom: -4665px;
+  left: 1255px;
+  font-family: Poppins;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.woddieSh {
+  position: absolute;
+  color: #575445;
+  cursor: pointer;
+  bottom: -4770px;
+  left: 640px;
+  font-family: Poppins;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.woddiePath {
+  position: absolute;
+  bottom: -4764px;
+  left: 820px;
+  cursor: pointer;
+}
+.b5b {
+  position: absolute;
+  bottom: -5150px;
+  left: 580px;
+}
+.b5-b {
+  position: absolute;
+  bottom: -5740px;
+  left: 0px;
+}
+.lotP {
+  position: absolute;
+  bottom: -5590px;
+  left: 130px;
+}
+.lotp {
+  position: absolute;
+  color: #e6b939;
+  bottom: -5250px;
+  left: 780px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-align: left;
+}
+.lotH1 {
+  position: absolute;
+  bottom: -5330px;
+  left: 780px;
+  color: #575445;
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 43px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.lotpp {
+  position: absolute;
+  bottom: -5450px;
+  left: 780px;
+  color: #575445;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  height: 116px;
+  width: 384px;
+}
+.lotA {
+  position: absolute;
+  color: #575445;
+  bottom: -5485px;
+  left: 780px;
+  cursor: pointer;
+}
+.lotPpp {
+  position: absolute;
+  bottom: -5482px;
+  left: 859px;
+  cursor: pointer;
+}
+
+.foter {
+  position: relative;
 }
